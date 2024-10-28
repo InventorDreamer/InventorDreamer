@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I am Daniil
 
-<!--
-**InventorDreamer/InventorDreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Ft.me%2FTheGhostlyGuru?style=flat-square)
 
 Here are some ideas to get you started:
 
