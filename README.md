@@ -17,6 +17,11 @@
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### Курсы повышения квалификации по Data Science
+![8C20CCC0_ACCF_45B9_98EF_DF4C2BB5D7AA_Сергеев_Даниил_Сергеевич_20242DS00196_page-0002](https://github.com/user-attachments/assets/80d4d95c-e9e4-4880-a3e9-627577b1419b)
+
 
 ---
 
