@@ -19,8 +19,6 @@
 
 ---
 
----
-
 ### 📫 Связаться со мной
 - Email: danyasergeev2004@gmail.com
 - Telegram: [@TheGhostlyGuru](https://t.me/TheGhostlyGuru)
