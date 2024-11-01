@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 Курсы повышения квалификации по Data Science
+### 📊 Курс Data Science Яндекс Практикум
 <img src="https://github.com/user-attachments/assets/80d4d95c-e9e4-4880-a3e9-627577b1419b" width="600">
 
 
