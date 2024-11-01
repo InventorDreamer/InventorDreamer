@@ -16,12 +16,6 @@
 
 ---
 
-### 📈 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniilSergeev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilSergeev&layout=compact&theme=radical)
-
----
-
 ### 📫 Связаться со мной
 - Email: danyasergeev2004@gmail.com
 - Telegram: [@TheGhostlyGuru](https://t.me/TheGhostlyGuru)
