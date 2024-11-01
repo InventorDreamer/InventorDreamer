@@ -1,6 +1,5 @@
 <h1 align="center">
-  Привет! <img src="https://github.com/InventorDreamer/InventorDreamer/raw/main//Users/daniilsergeev/Downloads/giphy.webp" alt="waving hand" width="50"> Я Даниил Сергеев
-</h1>
+  Привет! <img src="https://github.com/InventorDreamer/InventorDreamer/raw/main/giphy.gif" alt="waving hand" width="50"> Я Даниил Сергеев
 ### О себе
 - 🎓 Студент 3-го курса, Программная инженерия, РТУ МИРЭА
 - 💻 Интересуюсь SQL, теорией вероятностей, математическим анализом и линейной алгеброй
