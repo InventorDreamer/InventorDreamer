@@ -20,5 +20,5 @@
 ---
 
 ### 📫 Связаться со мной
-- Email: danyasergeev2004@gmail.com
-- Telegram: [@TheGhostlyGuru](https://t.me/TheGhostlyGuru)
+- ![Email](https://img.shields.io/badge/Email-danyasergeev2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![Telegram](https://img.shields.io/badge/Telegram-@TheGhostlyGuru-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
