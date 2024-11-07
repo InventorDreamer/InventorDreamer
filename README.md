@@ -20,5 +20,6 @@
 ---
 
 ### 📫 Связаться со мной
-- ![Email](https://img.shields.io/badge/Email-danyasergeev2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- ![Telegram](https://img.shields.io/badge/Telegram-@TheGhostlyGuru-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+- [![Email](https://img.shields.io/badge/Email-danyasergeev2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyasergeev2004@gmail.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-TheGhostlyGuru-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheGhostlyGuru)
+
