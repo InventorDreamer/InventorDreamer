@@ -18,6 +18,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InventorDreamer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InventorDreamer&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
 ### 📫 Связаться со мной
 [![Email](https://img.shields.io/badge/Email-danyasergeev2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyasergeev2004@gmail.com)
 
