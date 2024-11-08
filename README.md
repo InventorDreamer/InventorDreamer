@@ -20,9 +20,9 @@
 ### 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheGhostlyGuru&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGhostlyGuru&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGhostlyGuru&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InventorDreamer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InventorDreamer&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InventorDreamer&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
